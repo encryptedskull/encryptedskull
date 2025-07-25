@@ -10,9 +10,9 @@
 ## ✨ About Me
 
 - 🎨 Turning designs into pixel-perfect UI
-- ⚛ Specializing in *React, **Next.js, **Tailwind CSS, and **TypeScript*
-- 🧠 Currently exploring *Node.js, **NestJS, and **PostgreSQL*
-- ✉ Always open to *collaboration, **freelance, and **mentorship*
+- ⚛ Specializing in *React*, *Next.js*, *Tailwind CSS*, and *TypeScript*
+- 🧠 Currently exploring *Node.js*, *NestJS, and *PostgreSQL*
+- ✉ Always open to *collaboration*, *freelance*, and *mentorship*
 - 📈 Focused on clean code, performance, and DX
 
 ---
@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 
   <!-- Frameworks & Tools -->
-  <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,angular,bootstrap" />
   <img src="https://skillicons.dev/icons?i=electron,prisma,supabase" />
 
 </p>
