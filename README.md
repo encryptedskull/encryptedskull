@@ -42,12 +42,7 @@
 
 ---
 
-## 📊 GitHub Stats (Since 2023)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=encryptedskull&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=encryptedskull&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
-</p>
 
 
 ---
