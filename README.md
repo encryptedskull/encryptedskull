@@ -26,7 +26,7 @@
 
   <!-- Frameworks & Tools -->
   <img src="https://skillicons.dev/icons?i=react,next,tailwind,angular,bootstrap" />
-  <img src="https://skillicons.dev/icons?i=electron,prisma,supabase" />
+  <img src="https://skillicons.dev/icons?i=electron,prisma,supabase,mongodb,express" />
 
 </p>
 
