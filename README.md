@@ -52,4 +52,5 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammad-noor-haider-5154a02ba/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/encryptedskull"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://noor-haider.vercel.app/home"  >Portfolio</a>
 </p>
