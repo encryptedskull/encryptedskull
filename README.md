@@ -11,7 +11,7 @@
 
 - 🎨 Turning designs into pixel-perfect UI
 - ⚛ Specializing in *React*, *Next.js*, *Tailwind CSS*, and *TypeScript*
-- 🧠 Currently exploring *Node.js*, *NestJS*, and *PostgreSQL*
+- 🧠 Currently exploring *Node.js*, *NestJS*, *PostgreSQL*, *.Net Core* and *Angular*
 - ✉ Always open to *collaboration*, *freelance*, and *mentorship*
 - 📈 Focused on clean code, performance, and DX
 
