@@ -36,7 +36,7 @@
 
 <p align="center">
 
-  <img src="https://skillicons.dev/icons?i=vsCode,figma,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=vsCode,figma,photoshop,git,github,postman" />
 
 </p>
 
