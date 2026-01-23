@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Mohammad Noor Haider</h1>
-<h3 align="center">🚀 Frontend Developer | UI/UX Enthusiast | Code Craftsman from Pakistan 🇵🇰</h3>
+<h3 align="center">🚀 Full Stack Developer | UI/UX Enthusiast | Code Craftsman from Pakistan 🇵🇰</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Crafting+modern+frontend+experiences;Passionate+about+React+and+design;Always+learning+new+things!"/>
