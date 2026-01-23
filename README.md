@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 
   <!-- Frameworks & Tools -->
-  <img src="https://skillicons.dev/icons?i=react,next,nodejs,tailwind,express,angular,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,angular,tailwind,bootstrap" />
   <img src="https://skillicons.dev/icons?i=electron,prisma,supabase,mongodb" />
 
 </p>
