@@ -10,7 +10,7 @@
 ## ✨ About Me
 
 - 🎨 Turning designs into pixel-perfect UI
-- ⚛ Specializing in *React*, *Next.js*, *Tailwind CSS*, *Node.js* and *TypeScript*
+- ⚛ Specializing in *React*, *Next.js*, *Node.js*, *Express.js*, *TypeScript* and *Tailwind CSS*
 - 🧠 Currently exploring *NestJS*, *.Net Core* and *Angular*
 - ✉ Always open to *collaboration*, *freelance*, and *mentorship*
 - 📈 Focused on clean code, performance, and DX
