@@ -1,51 +1,81 @@
-<h1 align="center">👋 Hi there, I'm Mohammad Noor Haider</h1>
-<h3 align="center">🚀 Full Stack Developer | UI/UX Enthusiast</h3>
+<h1 align="center">Mohammad Noor Haider</h1>
+<h3 align="center">Full-Stack Web Developer · React & Next.js Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Crafting+modern+frontend+experiences;Passionate+about+React+and+design;Always+learning+new+things!"/>
+Building scalable, high-performance web applications with clean UI, solid architecture, and real-world business impact.
 </p>
 
 ---
 
-## ✨ About Me
+## 👨‍💻 About Me
 
-- 🎨 Turning designs into pixel-perfect UI
-- ⚛ Specializing in *React*, *Next.js*, *Node.js*, *Express.js*, *TypeScript* and *Tailwind CSS*
-- 🧠 Currently exploring *NestJS*, *.Net Core* and *Angular*
-- ✉ Always open to *collaboration*, *freelance*, and *mentorship*
-- 📈 Focused on clean code, performance, and DX
+I am a **Full-Stack Web Developer** focused on building modern, maintainable, and user-centric web applications.  
+My work blends **clean frontend experiences**, **robust backend logic**, and **practical problem-solving** for real business needs.
+
+I enjoy working on:
+- Production-ready dashboards & admin panels  
+- Booking, management & SaaS-style platforms  
+- Performance-optimized, responsive web apps  
+
+I value **clean code, scalability, and long-term maintainability** over quick hacks.
+
+---
+
+## 🧠 Core Expertise
+
+### Frontend Development
+- React.js, Next.js (App Router)
+- TypeScript, JavaScript (ES6+)
+- Tailwind CSS, CSS Modules, Responsive UI
+- Component-driven UI & state management
+
+### Backend Development
+- Node.js, Express.js
+- RESTful APIs & authentication
+- Firebase (Auth, Firestore), Supabase
+- MongoDB & relational data modeling
+
+### UI / UX & Performance
+- Pixel-perfect UI implementation
+- Accessibility & responsive design
+- Optimized data fetching & caching
+- Clean architecture & reusable components
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-
-  <!-- Frameworks & Tools -->
-  <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,angular,tailwind,bootstrap" />
-  <img src="https://skillicons.dev/icons?i=electron,prisma,firebase,supabase,mongodb" />
-
+  <img src="https://skillicons.dev/icons?i=react,next,ts,js,tailwind,nodejs,express" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb,prisma" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vsCode" />
 </p>
 
 ---
 
-## 🔧 Tools I Work With
-
-<p align="center">
-
-  <img src="https://skillicons.dev/icons?i=vsCode,figma,photoshop,git,github,postman" />
-
-</p>
-
+## 🚀 Currently Exploring
+- NestJS for scalable backend architecture  
+- .NET Core fundamentals  
+- Angular for enterprise-level applications  
 
 ---
 
-## 🌐 Let's Connect
+## 🤝 Open To
+- Freelance & contract projects  
+- Long-term product development  
+- Collaboration on serious open-source or startup ideas  
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammad-noor-haider-5154a02ba/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/encryptedskull"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohammad-noor-haider-5154a02ba/">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/encryptedskull">
+    <img src="https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
