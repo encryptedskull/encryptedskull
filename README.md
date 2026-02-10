@@ -1,45 +1,54 @@
 <h1 align="center">Mohammad Noor Haider</h1>
-<h3 align="center">Full-Stack Web Developer · React & Next.js Specialist</h3>
+<h3 align="center">
+  Full-Stack Web Developer · React & Next.js
+</h3>
 
 <p align="center">
-Building scalable, high-performance web applications with clean UI, solid architecture, and real-world business impact.
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Building+scalable+web+applications;Clean+UI+%7C+Robust+Backend;Focused+on+performance+and+maintainability" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=encryptedskull&style=flat-square&color=38BDF8" />
+  <img src="https://img.shields.io/github/followers/encryptedskull?label=Followers&style=flat-square&color=6366F1" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **Full-Stack Web Developer** focused on building modern, maintainable, and user-centric web applications.  
-My work blends **clean frontend experiences**, **robust backend logic**, and **practical problem-solving** for real business needs.
+I’m a **Full-Stack Web Developer** specializing in **React, Next.js, and modern backend systems**.  
+I build **production-ready applications** with clean UI, scalable architecture, and real business value.
 
-I enjoy working on:
-- Production-ready dashboards & admin panels  
-- Booking, management & SaaS-style platforms  
-- Performance-optimized, responsive web apps  
-
-I value **clean code, scalability, and long-term maintainability** over quick hacks.
+- Strong focus on **performance & DX**
+- Experience with **dashboards, booking systems & SaaS apps**
+- Passionate about **clean code & maintainable systems**
 
 ---
 
-## 🧠 Core Expertise
+## 🧠 What I Do Best
 
-### Frontend Development
+<table>
+<tr>
+<td width="50%">
+
+### Frontend
 - React.js, Next.js (App Router)
-- TypeScript, JavaScript (ES6+)
-- Tailwind CSS, CSS Modules, Responsive UI
-- Component-driven UI & state management
+- TypeScript, Tailwind CSS
+- Responsive & accessible UI
+- Component-driven architecture
 
-### Backend Development
+</td>
+<td width="50%">
+
+### Backend
 - Node.js, Express.js
-- RESTful APIs & authentication
-- Firebase (Auth, Firestore), Supabase
-- MongoDB & relational data modeling
+- REST APIs & authentication
+- Firebase, Supabase
+- MongoDB & Prisma
 
-### UI / UX & Performance
-- Pixel-perfect UI implementation
-- Accessibility & responsive design
-- Optimized data fetching & caching
-- Clean architecture & reusable components
+</td>
+</tr>
+</table>
 
 ---
 
@@ -55,17 +64,33 @@ I value **clean code, scalability, and long-term maintainability** over quick ha
 
 ---
 
-## 🚀 Currently Exploring
-- NestJS for scalable backend architecture  
-- .NET Core fundamentals  
-- Angular for enterprise-level applications  
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=encryptedskull&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=encryptedskull&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=encryptedskull&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Currently Learning
+- NestJS for scalable backend systems
+- .NET Core fundamentals
+- Angular (enterprise-level apps)
 
 ---
 
 ## 🤝 Open To
-- Freelance & contract projects  
-- Long-term product development  
-- Collaboration on serious open-source or startup ideas  
+- Freelance & contract work
+- Long-term product development
+- Collaboration on serious projects
 
 ---
 
