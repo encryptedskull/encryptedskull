@@ -54,17 +54,48 @@ I build **production-ready applications** with clean UI, scalable architecture, 
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-  <br />
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,mongodb,prisma" />
-  <br />
-  <!-- Tools -->
+### 🎨 Frontend
+**React.js**, **Next.js**, **TypeScript**, **JavaScript**, **HTML5**, **CSS3**, **Tailwind CSS**, **Bootstrap**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap" />
+</p>
+
+---
+
+### ⚙ Backend
+**Node.js**, **Express.js**, **REST APIs**, **Authentication**, **Server-side Logic**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+---
+
+### 🗄 Database & BaaS
+**MongoDB**, **Firebase (Auth & Firestore)**, **Supabase**, **Prisma ORM**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,prisma" />
+</p>
+
+---
+
+### 🔧 Tools & Workflow
+**Git**, **GitHub**, **Postman**, **Figma**, **VS Code**
+
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
 </p>
 
+---
+
+### 🚀 Currently Learning
+**NestJS**, **.NET Core**, **Angular**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nestjs,dotnet,angular" />
+</p>
 
 ---
 
