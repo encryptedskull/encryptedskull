@@ -55,12 +55,16 @@ I build **production-ready applications** with clean UI, scalable architecture, 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,ts,js,tailwind,nodejs,express" />
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
   <br />
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb,prisma" />
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,mongodb,prisma" />
   <br />
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vsCode" />
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
 </p>
+
 
 ---
 
