@@ -1,6 +1,6 @@
 <h1 align="center">Mohammad Noor Haider</h1>
 <h3 align="center">
-  Full-Stack Web Developer · React & Next.js
+  Full-Stack Developer · React & Next.js
 </h3>
 
 <p align="center">
