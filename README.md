@@ -106,13 +106,6 @@ I build **production-ready applications** with clean UI, scalable architecture, 
 
 ---
 
-## 🚀 Currently Learning
-- NestJS for scalable backend systems
-- .NET Core fundamentals
-- Angular (enterprise-level apps)
-
----
-
 ## 🤝 Open To
 - Freelance & contract work
 - Long-term product development
