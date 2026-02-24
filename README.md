@@ -1,4 +1,4 @@
-<h1 align="center"> Mohammad Noor Haider</h1>
+<h1 align="center"> M Noor Haider</h1>
 <h3 align="center">
   Full-Stack Developer · React & Next.js
 </h3>
