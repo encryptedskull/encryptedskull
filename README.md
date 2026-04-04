@@ -76,7 +76,7 @@ I build **production-ready applications** with clean UI, scalable architecture, 
 **MongoDB**, **Firebase (Auth & Firestore)**, **Supabase**, **PostgreSQL**, **Prisma ORM**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,postgresql,prisma" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,postgresql,sqlite,prisma" />
 </p>
 
 ---
