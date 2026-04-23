@@ -59,6 +59,102 @@ I build production-ready applications with clean UI, scalable architecture, and 
 
 ---
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔷 Beutron — Sales & Inventory System
+A comprehensive business management platform with real-time inventory tracking, profit/loss dashboards, expense management, and full supplier/customer transaction history.
+
+![Next.js](https://img.shields.io/badge/Next.js_14-black?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥️ Ventry — Desktop Stock Manager
+Offline-first desktop app for industrial suppliers built with Electron.js. Features stock tracking, sales/purchase records, payment management, and a cheque tracking system with financial reporting.
+
+![Electron](https://img.shields.io/badge/Electron.js-47848F?style=flat-square&logo=electron&logoColor=white)
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 SkillSphere — AI-Powered Job Platform ⭐ FYP
+Full-stack hiring platform with separate dashboards for recruiters and job seekers. Features AI-powered job matching via Gemini API, NLP search, company reviews, and role-based authentication.
+
+![Next.js](https://img.shields.io/badge/Next.js_14-black?style=flat-square&logo=next.js)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏗️ Workify — Construction Service Platform
+MERN stack platform for construction service providers with backend REST APIs in Express.js and Firebase for real-time data management.
+
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💬 Connectify — Social Media App
+Threads-inspired social platform with real-time feed updates, notifications, user authentication, and posting functionality powered by Supabase real-time subscriptions.
+
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Quizee — AI Quiz Platform
+Dynamic quiz app with multiple difficulty levels, real-time score tracking, progress visualization, and intelligent question generation powered by the Gemini API.
+
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛍️ Gazbo — E-commerce Clone
+Fully responsive menswear e-commerce site with a functional shopping cart persisted via local storage.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+<td width="50%" valign="top">
+<!-- placeholder for future project -->
+</td>
+</tr>
+</table>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -67,7 +163,7 @@ I build production-ready applications with clean UI, scalable architecture, and 
 
 ---
 
-## 🚀 Currently Learning
+## 📚 Currently Learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=nestjs,dotnet,angular" />
