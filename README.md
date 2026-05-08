@@ -49,7 +49,7 @@ I build production-ready applications with clean UI, scalable architecture, and 
 
 **Databases & BaaS**
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,postgresql,sqlite,mysql,prisma" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,postgresql,sqlite,mysql,prisma,turso" />
 </p>
 
 **Tools & Workflow**
