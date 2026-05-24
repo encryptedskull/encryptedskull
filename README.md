@@ -29,7 +29,7 @@ I build production-ready applications with clean UI, scalable architecture, and 
 | Frontend | Backend |
 |----------|---------|
 | React.js, Next.js (App Router) | Node.js, Express.js |
-| TypeScript, Tailwind CSS, GSAP | REST APIs & Authentication |
+| TypeScript, Tailwind CSS | REST APIs & Authentication |
 | Responsive & accessible UI | Firebase, Supabase |
 | Component-driven architecture | MongoDB, PostgreSQL, Turso & Prisma |
 
