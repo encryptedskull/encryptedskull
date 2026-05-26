@@ -68,7 +68,7 @@ I build production-ready applications with clean UI, scalable architecture, and 
 ### 🔷 Beutron — Sales & Inventory System
 A comprehensive business management platform with real-time inventory tracking, profit/loss dashboards, expense management, and full supplier/customer transaction history.
 
-![Next.js](https://img.shields.io/badge/Next.js_14-black?style=flat-square&logo=next.js)
+![Next.js](https://img.shields.io/badge/Next.js_15-black?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
