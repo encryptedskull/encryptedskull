@@ -94,7 +94,7 @@ Offline-first desktop app for industrial suppliers built with Electron.js. Featu
 ### 🤖 SkillSphere — AI-Powered Job Platform ⭐ FYP
 Full-stack hiring platform with separate dashboards for recruiters and job seekers. Features AI-powered job matching via Gemini API, NLP search, company reviews, and role-based authentication.
 
-![Next.js](https://img.shields.io/badge/Next.js_14-black?style=flat-square&logo=next.js)
+![Next.js](https://img.shields.io/badge/Next.js_15-black?style=flat-square&logo=next.js)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white)
