@@ -54,7 +54,7 @@ I build production-ready applications with clean UI, scalable architecture, and 
 
 **Tools & Workflow**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,photoshop" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,photoshop" />
 </p>
 
 ---
