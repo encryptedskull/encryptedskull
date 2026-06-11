@@ -149,13 +149,7 @@ Dynamic quiz app with multiple difficulty levels, real-time score tracking, prog
 
 ---
 
-## 📚 Currently Learning
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nestjs,dotnet,angular" />
-</p>
-
----
 
 ## 🤝 Open To
 
