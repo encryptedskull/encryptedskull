@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-Full-Stack developer specializing in **React**, **Next.js**, and modern backend systems.
+Full-Stack developer specializing in **React**, **Next.js**, and modern systems.
 I build production-ready applications with clean UI, scalable architecture, and real business value.
 
 - Strong focus on **performance & developer experience**
