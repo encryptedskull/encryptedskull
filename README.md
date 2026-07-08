@@ -165,7 +165,7 @@ Dynamic quiz app with multiple difficulty levels, real-time score tracking, prog
   <a href="https://www.linkedin.com/in/mohammad-noor-haider-5154a02ba/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  
+  &nbsp;
   <a href="https://github.com/encryptedskull">
     <img src="https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge&logo=github" />
   </a>
