@@ -1,4 +1,4 @@
-<h1 align="center">M Noor Haider</h1>
+<h1 align="center">Mohammad Noor Haider</h1>
 <h3 align="center">Full Stack Developer - Next.js & MERN</h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+scalable+web+applications;Clean+UI+%7C+Robust+Backend;Focused+on+performance+%26+maintainability" />
