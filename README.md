@@ -32,23 +32,9 @@ const engineer: FullStackDeveloper = {
   focus: "Building scalable, maintainable systems with polished user experiences.",
   availableFor: ["Full-Time Roles", "Contract Engineering", "High-Impact MVPs"]
 };
-
+```
 
 <br/>
-
-## ⚡ Engineering Overview
-
-```ts
-const engineer: FullStackDeveloper = {
-  name: "Mohammad Noor Haider",
-  role: "Full-Stack Software Engineer (MERN & Next.js)",
-  coreStack: ["Next.js 15", "React.js", "TypeScript", "Node.js", "PostgreSQL", "Prisma"],
-  architecture: ["SaaS Platforms", "ERP & Inventory Systems", "AI Integrations", "Offline-First Apps"],
-  focus: "Building scalable, maintainable systems with polished user experiences.",
-  availableFor: ["Full-Time Roles", "Contract Engineering", "High-Impact MVPs"]
-};
-
----
 
 ## 🛠️ Architecture & Tech Stack
 
