@@ -54,7 +54,6 @@ Full-Stack Developer specializing in the **React / Next.js** ecosystem and moder
 ### 🔷 Beutron — ERP & Inventory Platform
 End-to-end business management system featuring real-time inventory tracking, automated profit/loss analytics, expense ledgers, and complete supplier/customer transaction auditing.
 
-**[🔗 Live Demo](#) · [💻 Repository](#)**
 
 ![Next.js](https://img.shields.io/badge/Next.js_15-black?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -67,8 +66,6 @@ End-to-end business management system featuring real-time inventory tracking, au
 
 ### 🤖 SkillSphere — AI Recruitment Platform ⭐ *FYP*
 Full-stack recruitment ecosystem with dedicated portals for employers and candidates. Engineered with Gemini-powered candidate matching, semantic NLP job search, and role-based access control.
-
-**[🔗 Live Demo](#) · [💻 Repository](#)**
 
 ![Next.js](https://img.shields.io/badge/Next.js_15-black?style=flat-square&logo=next.js)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -84,7 +81,6 @@ Full-stack recruitment ecosystem with dedicated portals for employers and candid
 ### 🖥️ Ventry — Offline-First Desktop Stock Manager
 Cross-platform desktop application built for industrial suppliers. Delivers local-first stock control, procurement/sales ledgers, payment reconciliation, and automated cheque lifecycle reporting.
 
-**[💻 Repository](#)**
 
 ![Electron](https://img.shields.io/badge/Electron.js-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js_15-black?style=flat-square&logo=next.js)
@@ -97,7 +93,6 @@ Cross-platform desktop application built for industrial suppliers. Delivers loca
 ### 🏗️ Workify — Construction Service Marketplace
 Service management platform connecting clients with verified contractors. Built on a decoupled MERN architecture with Express REST APIs and Firebase for real-time project state synchronization.
 
-**[🔗 Live Demo](#) · [💻 Repository](#)**
 
 ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -113,7 +108,6 @@ Service management platform connecting clients with verified contractors. Built 
 ### 💬 Connectify — Real-Time Social Network
 Threads-inspired social platform featuring live feed streaming, instant push notifications, secure authentication, and media publishing powered by Supabase real-time database subscriptions.
 
-**[🔗 Live Demo](#) · [💻 Repository](#)**
 
 ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
@@ -125,7 +119,6 @@ Threads-inspired social platform featuring live feed streaming, instant push not
 ### 🧠 Quizee — Adaptive AI Assessment Engine
 Interactive assessment application offering dynamic question generation via the Gemini API, customizable difficulty tiers, real-time score telemetry, and visual performance analytics.
 
-**[🔗 Live Demo](#) · [💻 Repository](#)**
 
 ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -154,7 +147,7 @@ I am currently available for **full-time software engineering roles**, **contrac
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:noorhaider381@gmail.com">
     <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
