@@ -1,71 +1,62 @@
-<h1 align="center">Mohammad Noor Haider</h1>
-<h3 align="center">Full Stack Developer - (MERN & Next.js)</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+scalable+web+applications;Clean+UI+%7C+Robust+Backend;Focused+on+performance+%26+maintainability" />
-</p>
+<div align="center">
+  <h1>Mohammad Noor Haider</h1>
+  <h3>Full-Stack Software Engineer — Next.js, TypeScript & Scalable Systems</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=encryptedskull&style=flat-square&color=38BDF8" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/encryptedskull?label=Followers&style=flat-square&color=6366F1" />
-</p>
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Architecting+production-ready+SaaS+%26+web+applications;Next.js+App+Router+%7C+TypeScript+%7C+Node.js+%7C+PostgreSQL;Focused+on+system+performance%2C+clean+UI+%26+business+impact" alt="Typing SVG" />
+  </p>
 
----
-
-## 👨‍💻 About Me
-
-Full-Stack developer specializing in **React**, **Next.js**, and modern systems.
-I build production-ready applications with clean UI, scalable architecture, and real business value.
-
-- Strong focus on **performance & developer experience**
-- Experience with **dashboards, booking systems & SaaS apps**
-- Passionate about **clean code & maintainable systems**
+  <p>
+    <a href="https://www.linkedin.com/in/mohammad-noor-haider-5154a02ba/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:YOUR_EMAIL@example.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=encryptedskull&style=flat-square&color=38BDF8&label=Profile+Views" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/encryptedskull?label=Followers&style=flat-square&color=6366F1" alt="Followers" />
+  </p>
+</div>
 
 ---
 
-## 🧠 What I Do Best
+## 👨‍💻 Engineering Profile
 
-| Frontend | Backend |
-|----------|---------|
-| React.js, Next.js (App Router) | Node.js, Express.js |
-| TypeScript, Tailwind CSS | REST APIs & Authentication |
-| Responsive & Accessible UI | Firebase, Supabase |
-| Component Based Architecture | MongoDB, PostgreSQL, Prisma & Turso |
+Full-Stack Developer specializing in the **React / Next.js** ecosystem and modern backend architectures. I design and build production-ready web and desktop applications that bridge clean, accessible user interfaces with resilient, scalable data layers.
 
----
-
-## 🛠️ Tech Stack
-
-**Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap" />
-</p>
-
-**Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-**Databases & BaaS**
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,postgresql,sqlite,mysql,prisma" />
-</p>
-
-**Tools & Workflow**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,photoshop" />
-</p>
+- **Product & Business Focus:** Proven track record delivering ERP/inventory systems, AI-powered platforms, and real-time SaaS dashboards.
+- **System Architecture:** Experienced in designing type-safe APIs, relational & NoSQL database schemas, and offline-first desktop applications.
+- **Engineering Standards:** Committed to modular component architecture, performance optimization, and maintainable codebases.
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Architecture & Tech Stack
+
+| Domain | Core Technologies & Capabilities |
+| :--- | :--- |
+| **Frontend Engineering** | Next.js 15 (App Router, SSR/ISR), React.js, TypeScript, Tailwind CSS, Electron.js, Responsive & Accessible UI |
+| **Backend & APIs** | Node.js, Express.js, RESTful API Design, Role-Based Access Control (RBAC), Auth & Session Management |
+| **Databases & BaaS** | PostgreSQL, MongoDB, Prisma ORM, Supabase, Firebase, Turso (SQLite), MySQL |
+| **AI & Integrations** | Google Gemini API, NLP Search, Real-Time Subscriptions, Chart.js / Data Visualization |
+
+<br />
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,express,postgresql,mongodb,prisma,supabase,firebase,git,github,postman,vscode&perline=8" alt="Tech Stack Icons" />
+</div>
+
+---
+
+## 🚀 Featured Engineering Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔷 Beutron — Sales & Inventory System
-A comprehensive business management platform with real-time inventory tracking, profit/loss dashboards, expense management, and full supplier/customer transaction history.
+### 🔷 Beutron — ERP & Inventory Platform
+End-to-end business management system featuring real-time inventory tracking, automated profit/loss analytics, expense ledgers, and complete supplier/customer transaction auditing.
+
+**[🔗 Live Demo](#) · [💻 Repository](#)**
 
 ![Next.js](https://img.shields.io/badge/Next.js_15-black?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -76,22 +67,10 @@ A comprehensive business management platform with real-time inventory tracking, 
 </td>
 <td width="50%" valign="top">
 
-### 🖥️ Ventry — Desktop Stock Manager
-Offline-first desktop app for industrial suppliers built with Electron.js. Features stock tracking, sales/purchase records, payment management, and a cheque tracking system with financial reporting.
+### 🤖 SkillSphere — AI Recruitment Platform ⭐ *FYP*
+Full-stack recruitment ecosystem with dedicated portals for employers and candidates. Engineered with Gemini-powered candidate matching, semantic NLP job search, and role-based access control.
 
-![Electron](https://img.shields.io/badge/Electron.js-47848F?style=flat-square&logo=electron&logoColor=white)
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js_15-black?style=flat-square&logo=next.js)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 SkillSphere — AI-Powered Job Platform ⭐ FYP
-Full-stack hiring platform with separate dashboards for recruiters and job seekers. Features AI-powered job matching via Gemini API, NLP search, company reviews, and role-based authentication.
+**[🔗 Live Demo](#) · [💻 Repository](#)**
 
 ![Next.js](https://img.shields.io/badge/Next.js_15-black?style=flat-square&logo=next.js)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -99,15 +78,33 @@ Full-stack hiring platform with separate dashboards for recruiters and job seeke
 ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white)
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
-### 🏗️ Workify — Construction Service Platform
-MERN stack platform for construction service providers with backend REST APIs in Express.js and Firebase for real-time data management.
+### 🖥️ Ventry — Offline-First Desktop Stock Manager
+Cross-platform desktop application built for industrial suppliers. Delivers local-first stock control, procurement/sales ledgers, payment reconciliation, and automated cheque lifecycle reporting.
+
+**[💻 Repository](#)**
+
+![Electron](https://img.shields.io/badge/Electron.js-47848F?style=flat-square&logo=electron&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_15-black?style=flat-square&logo=next.js)
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏗️ Workify — Construction Service Marketplace
+Service management platform connecting clients with verified contractors. Built on a decoupled MERN architecture with Express REST APIs and Firebase for real-time project state synchronization.
+
+**[🔗 Live Demo](#) · [💻 Repository](#)**
 
 ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 </td>
 </tr>
@@ -115,8 +112,10 @@ MERN stack platform for construction service providers with backend REST APIs in
 <tr>
 <td width="50%" valign="top">
 
-### 💬 Connectify — Social Media App
-Threads-inspired social platform with real-time feed updates, notifications, user authentication, and posting functionality powered by Supabase real-time subscriptions.
+### 💬 Connectify — Real-Time Social Network
+Threads-inspired social platform featuring live feed streaming, instant push notifications, secure authentication, and media publishing powered by Supabase real-time database subscriptions.
+
+**[🔗 Live Demo](#) · [💻 Repository](#)**
 
 ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
@@ -125,8 +124,10 @@ Threads-inspired social platform with real-time feed updates, notifications, use
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Quizee — AI Quiz Platform
-Dynamic quiz app with multiple difficulty levels, real-time score tracking, progress visualization, and intelligent question generation powered by the Gemini API.
+### 🧠 Quizee — Adaptive AI Assessment Engine
+Interactive assessment application offering dynamic question generation via the Gemini API, customizable difficulty tiers, real-time score telemetry, and visual performance analytics.
+
+**[🔗 Live Demo](#) · [💻 Repository](#)**
 
 ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -134,38 +135,28 @@ Dynamic quiz app with multiple difficulty levels, real-time score tracking, prog
 
 </td>
 </tr>
-
-
 </table>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Activity & Contributions
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=encryptedskull&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-
-
-## 🤝 Open To
-
-- Freelance & contract work
-- Long-term product development
-- Collaboration on serious projects
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=encryptedskull&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Work & Collaboration
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohammad-noor-haider-5154a02ba/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+I am currently available for **full-time software engineering roles**, **contract/freelance engagements**, and **end-to-end MVP development**.
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohammad-noor-haider-5154a02ba/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
-  <a href="https://github.com/encryptedskull">
-    <img src="https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge&logo=github" />
+  &nbsp;&nbsp;
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
+</div>
