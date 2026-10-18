@@ -10,11 +10,9 @@
     <a href="https://www.linkedin.com/in/mohammad-noor-haider-5154a02ba/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:YOUR_EMAIL@example.com">
+    <a href="mailto:noorhaider381@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=encryptedskull&style=flat-square&color=38BDF8&label=Profile+Views" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/encryptedskull?label=Followers&style=flat-square&color=6366F1" alt="Followers" />
   </p>
 </div>
 
