@@ -55,6 +55,7 @@ Full-Stack Developer specializing in the **React / Next.js** ecosystem and moder
 End-to-end business management system featuring real-time inventory tracking, automated profit/loss analytics, expense ledgers, and complete supplier/customer transaction auditing.
 
 
+
 ![Next.js](https://img.shields.io/badge/Next.js_15-black?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
