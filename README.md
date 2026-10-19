@@ -43,7 +43,7 @@ const engineer: FullStackDeveloper = {
 | **Frontend Engineering** | Next.js 15 (App Router, SSR/ISR), React.js, TypeScript, Tailwind CSS, Electron.js, Responsive & Accessible UI |
 | **Backend & APIs** | Node.js, Express.js, RESTful API Design, Role-Based Access Control (RBAC), Auth & Session Management |
 | **Databases & BaaS** | PostgreSQL, MongoDB, Prisma ORM, Supabase, Firebase, Turso (SQLite), MySQL |
-| **AI & Integrations** | Google Gemini API, NLP Search, Real-Time Subscriptions, Chart.js / Data Visualization |
+| **AI & Integrations** | Google Gemini API, NLP Search, Real-Time Subscriptions, Chart.js |
 
 <br />
 
