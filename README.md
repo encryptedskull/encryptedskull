@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=Venom&color=0:0F172A,50:1E293B,100:38BDF8&height=200&section=header&text=Mohammad%20Noor%20Haider&fontSize=42&fontColor=F8FAFC&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%E2%80%94%20Next.js%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Scalable%20Systems&descSize=16&descColor=38BDF8&descAlignY=62&animation=fadeIn" width="100%" alt="Header Banner" />
 
   <a href="https://github.com/encryptedskull">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=%3E+Architecting+production-ready+SaaS+%26+Enterprise+Web+Apps;%3E+Next.js+15+App+Router+%7C+TypeScript+%7C+Node.js+%7C+PostgreSQL;%3E+Engineered+for+high+performance%2C+clean+UI+%26+business+impact" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=%3E+Architecting+production-ready+SaaS+%26+Enterprise+Web+Apps;%3E+Next.js+App+Router+%7C+TypeScript+%7C+Node.js+%7C+PostgreSQL;%3E+Engineered+for+high+performance%2C+clean+UI+%26+business+impact" alt="Typing SVG" />
   </a>
 
   <br/><br/>
