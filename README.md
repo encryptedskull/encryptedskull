@@ -30,7 +30,7 @@ const engineer: FullStackDeveloper = {
   coreStack: ["Next.js", "React", "TypeScript", "Node.js", "PostgreSQL", "Prisma"],
   architecture: ["SaaS Platforms", "ERP & Inventory Systems", "AI Integrations", "Custom Solutions"],
   focus: "Building scalable, maintainable systems with polished user experiences.",
-  availableFor: ["Full-Time Roles", "Contract Engineering", "High-Impact MVPs"]
+  availableFor: ["Full-Time Role", "Contract Engineering", "High-Impact MVPs"]
 };
 ```
 
