@@ -59,7 +59,7 @@ const engineer: FullStackDeveloper = {
 <tr>
 <td width="50%" valign="top">
 
-### 🔷 Beutron — ERP & Inventory Platform
+### 🔷 Beutron — Inventory Platform
 End-to-end business management system featuring real-time inventory tracking, automated profit/loss analytics, expense ledgers, and complete supplier/customer transaction auditing.
 
 
